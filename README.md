@@ -1,3 +1,14 @@
+<br clear="both">
+
+<h3 align="center">en | This work was done for the 3rd year students. His specialty is Information Systems and programming.</h3>
+
+###
+
+<br clear="both">
+
+<h3 align="center">ru | Данная работа была выполнена для 3 курса. По специальности - Информационные системы и программирование.</h3>
+
+###
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
